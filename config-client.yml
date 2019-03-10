@@ -1,2 +1,3 @@
-config-client:
-  message: Hello Susanta............. viewers.. its yml format
+en-US:
+  config-client:
+    message: Hello Susanta............. viewers.. its yml2 format
