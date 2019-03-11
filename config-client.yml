@@ -1,2 +1,3 @@
-config-client:
-  message: Hello Susanta............. viewers.. its yml3 format
+spring:
+  config-client:
+    message: Hello Susanta............. viewers.. its yml4 format
